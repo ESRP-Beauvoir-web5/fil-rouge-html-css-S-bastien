@@ -11,7 +11,7 @@ class Question {
   let questions = [
     new Question("1. qui est l'hôte du démon à 2 queues?", ["Yagura", "Yugito"], "Yugito"),
 
-    new Question("2. Qui est Isobu?", ["Le démon à 3 queues", "Le démon à 4 queues"], "Le Démon à 3 queue"),
+    new Question("2. Qui est Isobu?", ["Le démon à 3 queues", "Le démon à 4 queues"], "Le démon à 3 queue"),
 
     new Question("3. Quel animal incarne le démon à 2 queue ?", ["Un chat", "Un renard"], "Un chat"),
 
